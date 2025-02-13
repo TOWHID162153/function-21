@@ -12,6 +12,3 @@ function fname(){
 }
 fname();
 
-// function mathSolution(num){
-//     const sum = 
-// }
